@@ -45,7 +45,7 @@ I am a Computer Science student focused on building **scalable backend systems**
 ## 📊 DSA Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Kartikk19_?theme=dark&font=Karma&ext=contest)
-![GeeksforGeeks Stats](https://gfgstats.vercel.app/api?kartikk19)
+![GeeksforGeeks Stats](https://gfgstats.vercel.app/api?username=kartikk19)
 
 
 
