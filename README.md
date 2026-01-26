@@ -42,11 +42,12 @@ I am a Computer Science student focused on building **scalable backend systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+## 📊 DSA Stats
 
-## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kkartikkkk&theme=darkhub&no-frame=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kartikk19_?theme=dark&font=Karma&ext=contest)
+![GeeksforGeeks Stats](https://gfgstats.vercel.app/api?kartikk19)
 
----
+
 
 ## 📊 GitHub Stats
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkartikkkk&show_icons=true&theme=tokyonight)
@@ -55,8 +56,6 @@ I am a Computer Science student focused on building **scalable backend systems**
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://leetcode.com/u/Kartikk19_/
-- 📘 GeeksforGeeks: https://www.geeksforgeeks.org/profile/kartikk19
 - 📧 Email: kaushalkartik826@gmail.com
 
 ---
