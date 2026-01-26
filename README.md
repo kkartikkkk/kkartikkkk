@@ -6,7 +6,7 @@
 
 I am a Computer Science student focused on building **scalable backend systems** and strengthening my **problem-solving skills** through Data Structures and Algorithms.
 
-- 🔧 Building REST APIs using **FastAPI** and **Node.js**
+- 🔧 Building REST APIs using **FastAPI**
 - 🐳 Containerizing applications with **Docker**
 - 🗄️ Working with **SQL & PostgreSQL**
 - 📈 Practicing **DSA regularly on GeeksforGeeks & LeetCode**
