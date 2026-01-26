@@ -2,7 +2,7 @@
 
 # Hello 👋, I'm Kartik Kaushal
 
-## Backend Developer | CS Student | DSA Enthusiast
+## Full-Stack Developer | CS Student | DSA Enthusiast
 
 I am a Computer Science student focused on building **scalable backend systems** and strengthening my **problem-solving skills** through Data Structures and Algorithms.
 
