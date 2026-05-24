@@ -31,8 +31,7 @@ Building scalable applications and solving DSA problems consistently.
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://auth.geeksforgeeks.org/user/kartikk19_/)
 
 ## 📊 GitHub Stats
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkartikkkk&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkartikkkk&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkartikkkk&show_icons=true&theme=tokyonight)
 
 ---
 
