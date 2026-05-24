@@ -44,15 +44,7 @@ I am a Computer Science student focused on building **scalable backend systems**
 ---
 ## 📊 DSA Profile
 
-<p align="left">
-  <a href=https://leetcode.com/u/Kartikk19_/ target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="42" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href=https://www.geeksforgeeks.org/profile/kartikk19 target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="42" />
-  </a>
-</p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kartikk19_)
 
 ## 📊 GitHub Stats
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkartikkkk&show_icons=true&theme=tokyonight)
