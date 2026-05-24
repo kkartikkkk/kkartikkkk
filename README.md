@@ -30,10 +30,6 @@ Building scalable applications and solving DSA problems consistently.
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Kartikk19_)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://auth.geeksforgeeks.org/user/kartikk19_/)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkartikkkk&show_icons=true&theme=tokyonight)
-
----
 
 ## 🔗 Connect With Me
 - 📧 Email: kaushalkartik826@gmail.com
