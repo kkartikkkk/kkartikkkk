@@ -1,18 +1,11 @@
 
 
-# Hello 👋, I'm Kartik Kaushal
+# Hey, I'm Kartik 👋
 
-## Full-Stack Developer | CS Student | DSA Enthusiast
+Backend-Focused Full Stack Developer  
+Java • FastAPI • React • PostgreSQL
 
-I am a Computer Science student focused on building **scalable backend systems** and strengthening my **problem-solving skills** through Data Structures and Algorithms.
-
-- 🔧 Building REST APIs using **FastAPI**
-- 🐳 Containerizing applications with **Docker**
-- 🗄️ Working with **SQL & PostgreSQL**
-- 📈 Practicing **DSA regularly on GeeksforGeeks & LeetCode**
-- 🎯 Targeting **Backend / SDE-1 roles**
-
----
+Building scalable applications and solving DSA problems consistently.
 
 ## 🚀 Tech Stack
 
