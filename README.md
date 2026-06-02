@@ -28,12 +28,28 @@ Building scalable applications and solving DSA problems consistently.
 ## 📊 DSA Profile
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Kartikk19_)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://auth.geeksforgeeks.org/user/kartikk19_/)
 
 
 ## 🔗 Connect With Me
-- 📧 Email: kaushalkartik826@gmail.com
 
----
+<p align="left">
+  <a href="mailto:kaushalkartik826@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;
+  <a href=www.linkedin.com/in/kartik-kaushal-849738334>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Kartikk19_/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/kartikk19_">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="40" />
+  </a>
+</p>
+
+
 
 
