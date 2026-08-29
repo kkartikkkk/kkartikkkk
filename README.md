@@ -45,7 +45,7 @@ Building scalable applications and solving DSA problems consistently.
     <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" height="40" />
   </a>
   &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/kartikk19_">
+  <a href="https://www.geeksforgeeks.org/profile/kartikk19">
     <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="40" />
   </a>
 </p>
