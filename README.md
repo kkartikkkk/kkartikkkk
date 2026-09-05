@@ -5,7 +5,6 @@
 Backend-Focused Full Stack Developer  
 Java • FastAPI • React • PostgreSQL
 
-Building scalable applications and solving DSA problems consistently.
 
 ## 🚀 Tech Stack
 
