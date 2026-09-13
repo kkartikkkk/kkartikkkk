@@ -47,6 +47,12 @@ Java • FastAPI • React • PostgreSQL
   <a href="https://www.geeksforgeeks.org/profile/kartikk19">
     <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="40" />
   </a>
+
+  <p align="center">
+  <a href="https://codolio.com/profile/Kartik19_">
+    <img src="./profileCard.png" width="600" alt="Kartik Kaushal - Codolio Profile">
+  </a>
+</p>
 </p>
 
 
