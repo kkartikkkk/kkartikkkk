@@ -18,7 +18,16 @@ Java • FastAPI • React • PostgreSQL • Agentic AI
 [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,redux)](https://skillicons.dev)
 
 ### 🤖 AI & Agentic AI
-**LangChain • LangGraph • RAG • MCP**
+
+### 🤖 AI & Agentic AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge&logo=googlescholar&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-2563EB?style=for-the-badge&logo=probot&logoColor=white" alt="MCP" />
+</p>
+
 
 ### 🛠️ DevOps & Tools
 [![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,githubactions)](https://skillicons.dev)
